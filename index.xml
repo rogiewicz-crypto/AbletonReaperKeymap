@@ -6,7 +6,7 @@
                author="GPT-5"
                time="2025-11-07"
                desc="Ableton Live 11-style keymap for REAPER 7.22 (macOS) with SWS integration."/>
-      <source>https://raw.githubusercontent.com/<rogiewicz-crypto>/AbletonReaperKeymap/main/Ableton_Live11_SWS_Enhanced.ReaperKeyMap</source>
+      <source>https://raw.githubusercontent.com/rogiewicz-crypto/AbletonReaperKeymap/main/Ableton_Live11_SWS_Enhanced.ReaperKeyMap</source>
     </package>
   </category>
 </index>
