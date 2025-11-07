@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Ableton Live 11 Keymap Repo">
+  <category name="Keymaps">
+    <package name="Ableton Live 11 Keymap (SWS Enhanced)" type="data">
+      <version name="1.0.0"
+               author="GPT-5"
+               time="2025-11-07"
+               desc="Ableton Live 11-style keymap for REAPER 7.22 (macOS) with SWS integration."/>
+      <source>https://raw.githubusercontent.com/<TWÓJ_UŻYTKOWNIK>/AbletonReaperKeymap/main/Ableton_Live11_SWS_Enhanced.ReaperKeyMap</source>
+    </package>
+  </category>
+</index>
